@@ -1,0 +1,5 @@
+﻿  Varparm.cpp
+C:\labi\2sem\kpo\lab9\SE_LAB9\Varparm.cpp(46,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\labi\2sem\kpo\lab9\SE_LAB9\Varparm.cpp(51,10): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\labi\2sem\kpo\lab9\SE_LAB9\Varparm.cpp(70,10): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  SE_LAB9.vcxproj -> C:\labi\2sem\kpo\lab9\SE_LAB9\Debug\SE_LAB9.exe

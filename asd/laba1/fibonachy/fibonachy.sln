@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fibonachy", "fibonachy.vcxproj", "{51D9B8D0-F7B7-4871-BF0A-B09954EA285F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51D9B8D0-F7B7-4871-BF0A-B09954EA285F}.Debug|x64.ActiveCfg = Debug|x64
+		{51D9B8D0-F7B7-4871-BF0A-B09954EA285F}.Debug|x64.Build.0 = Debug|x64
+		{51D9B8D0-F7B7-4871-BF0A-B09954EA285F}.Debug|x86.ActiveCfg = Debug|Win32
+		{51D9B8D0-F7B7-4871-BF0A-B09954EA285F}.Debug|x86.Build.0 = Debug|Win32
+		{51D9B8D0-F7B7-4871-BF0A-B09954EA285F}.Release|x64.ActiveCfg = Release|x64
+		{51D9B8D0-F7B7-4871-BF0A-B09954EA285F}.Release|x64.Build.0 = Release|x64
+		{51D9B8D0-F7B7-4871-BF0A-B09954EA285F}.Release|x86.ActiveCfg = Release|Win32
+		{51D9B8D0-F7B7-4871-BF0A-B09954EA285F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D48519D3-659B-4F1E-9060-FC4D6EF24F9E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\labi\2sem\oaip\laba1\main.hpp(5,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\labi\2sem\oaip\laba1\dop.hpp(50,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba1.vcxproj -> C:\labi\2sem\oaip\laba1\x64\Debug\laba1.exe

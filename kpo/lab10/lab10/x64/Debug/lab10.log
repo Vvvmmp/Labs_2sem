@@ -1,0 +1,4 @@
+﻿  lab10.cpp
+C:\labi\2sem\kpo\lab10\lab10\lab10.cpp(14,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\labi\2sem\kpo\lab10\lab10\lab10.cpp(18,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  lab10.vcxproj -> C:\labi\2sem\kpo\lab10\lab10\x64\Debug\lab10.exe

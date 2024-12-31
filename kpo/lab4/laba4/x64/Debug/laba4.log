@@ -1,0 +1,4 @@
+﻿  laba4.cpp
+C:\labi\2sem\kpo\lab4\laba4\others.hpp(127,15): warning C4305: =: усечение из "double" в "GradePointAverage"
+C:\labi\2sem\kpo\lab4\laba4\others.hpp(135,16): warning C4305: =: усечение из "double" в "GradePointAverage"
+  laba4.vcxproj -> C:\labi\2sem\kpo\lab4\laba4\x64\Debug\SE_Lab04.exe

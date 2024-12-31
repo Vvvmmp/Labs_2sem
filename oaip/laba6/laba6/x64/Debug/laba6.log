@@ -1,0 +1,5 @@
+﻿  laba6.cpp
+C:\labi\2sem\oaip\laba6\laba6\base.hpp(111,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\labi\2sem\oaip\laba6\laba6\base.hpp(221,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\labi\2sem\oaip\laba6\laba6\base.hpp(238,18): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  laba6.vcxproj -> C:\labi\2sem\oaip\laba6\laba6\x64\Debug\laba6.exe

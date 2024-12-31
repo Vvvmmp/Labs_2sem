@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\labi\2sem\oaip\тестирование\test\test.cpp(110,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  test.vcxproj -> C:\labi\2sem\oaip\тестирование\test\x64\Debug\test.exe

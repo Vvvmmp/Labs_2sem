@@ -1,0 +1,12 @@
+﻿  laba5.cpp
+C:\labi\2sem\oaip\laba5\laba5\base.hpp(269,13): error C2601: var6n2: недопустимые локальные определения функций
+C:\labi\2sem\oaip\laba5\laba5\base.hpp(254,5): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\labi\2sem\oaip\laba5\laba5\base.hpp(315,14): error C2601: input: недопустимые локальные определения функций
+C:\labi\2sem\oaip\laba5\laba5\base.hpp(254,5): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\labi\2sem\oaip\laba5\laba5\base.hpp(354,14): error C2601: output: недопустимые локальные определения функций
+C:\labi\2sem\oaip\laba5\laba5\base.hpp(254,5): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\labi\2sem\oaip\laba5\laba5\base.hpp(380,14): error C2601: findByJobTitle: недопустимые локальные определения функций
+C:\labi\2sem\oaip\laba5\laba5\base.hpp(254,5): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\labi\2sem\oaip\laba5\laba5\laba5.cpp(6,5): error C2601: main: недопустимые локальные определения функций
+C:\labi\2sem\oaip\laba5\laba5\base.hpp(254,5): message : эта строка содержит скобку "{", которая пока не имеет парной
+C:\labi\2sem\oaip\laba5\laba5\base.hpp(254,5): fatal  error C1075: "{": не найдена несоответствующая лексема
